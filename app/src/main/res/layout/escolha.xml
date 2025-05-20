@@ -32,7 +32,7 @@
         app:layout_constraintTop_toBottomOf="@id/Titulo"
         android:textColor="@color/white"
         android:id="@+id/Subtitulo"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="85dp"
         />
     <Button
         android:layout_width="300dp"
@@ -45,7 +45,7 @@
         android:backgroundTint="@color/white"
         android:textColor="@color/black"
         android:textSize="18dp"
-        android:layout_marginTop="150dp"/>
+        android:layout_marginTop="100dp"/>
     <Button
         android:layout_width="300dp"
         android:layout_height="wrap_content"
